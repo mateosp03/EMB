@@ -19,8 +19,8 @@
 ## Requierements
 
 * Raspberry Pi Pico 2W. 
-* Two servo motors. 
-* Three gearmotor.
+* Two gearmotors. 
+* Three servomotors.
 
 ## People in Charge 
 
